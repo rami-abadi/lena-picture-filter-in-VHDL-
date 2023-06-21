@@ -1,4 +1,4 @@
 we disgned a system that operates as median filter that the source picture is saved in the ROM memmory, and the result picture is written into a RAM memmory
 2-it was required to create memmories of both types for each layer of color (RGB) USING MEGA WIZARD.
 3-we need to allow acess for the In System Memmory Content Editor to all the memmories.
-4-
+
